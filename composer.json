@@ -1,0 +1,8 @@
+{
+  "require": {
+    "bcosca/fatfree": ">=3.9.0",
+    "ikkez/f3-cortex": ">=1.7.8",
+    "ikkez/f3-flash": ">=1.0.2",
+    "ikkez/f3-mailer": ">=1.2.3"
+  }
+}
